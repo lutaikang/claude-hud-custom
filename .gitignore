@@ -1,0 +1,17 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.venv/
+node_modules/
+dist/
+coverage/
+backups/
+.private/
+.env
+.env.*
+settings.json
+settings.local.json
+.credentials*
+*credentials*.json
+*.jsonl
+*.log

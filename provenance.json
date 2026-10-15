@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "captured_at": "2026-10-15T08:36:22.028939+00:00",
+  "scope": "Existing local custom layer; not an upstream fork or automatic deployment",
+  "files": [
+    {
+      "path": "src/statusline-hud-plus-cache.sh",
+      "source": "~/.claude/statusline-hud-plus-cache.sh",
+      "sha256": "928f9afad6c5907baa47b5fc2b256d71cec7359cfa25096642122eac4a42a680"
+    },
+    {
+      "path": "src/statusline-hud.py",
+      "source": "~/.claude/statusline-hud.py",
+      "sha256": "b86408a483fb15bdd59286cb6fb756002e06ac5721399e56f9fc70b1970fcf8f"
+    },
+    {
+      "path": "src/cache-ratio-line.py",
+      "source": "~/.claude/cache-ratio-line.py",
+      "sha256": "1aa489805ff0365be2599b085a905d424e187c80c34f51baf42fbb27f26d767c"
+    }
+  ],
+  "upstream": {
+    "repository": "https://github.com/jarrodwatts/claude-hud.git",
+    "version": "0.11.2",
+    "commit": "02d73c416b52b4e510a9be004fca469f961cd5bc",
+    "package_sha256": "f92b5d8a5b86442e64581ed93afb9040e5bf64665c419dfc41003930fe7a759a",
+    "dist_tree_sha256": "4659b6867f8523ee68ed74751dc04c2f8038fa7ba2badf6c5b7a05cc431e3ec3",
+    "license": "MIT",
+    "license_file": "third_party/claude-hud-LICENSE"
+  },
+  "historical_context": {
+    "task": "~/Desktop/money/investment-platform/tasks/2026-10-13-1206-cross-context-hud-diagnostics.md",
+    "tests": "~/Desktop/money/investment-platform/tasks/2026-10-13-1206-cross-context-hud-diagnostics/evidence/test_hud.py"
+  },
+  "runtime_modified": false
+}

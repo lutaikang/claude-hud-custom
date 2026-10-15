@@ -1,0 +1,27 @@
+{
+  "display": {
+    "showModel": true,
+    "showEffortLevel": true,
+    "showContextBar": true,
+    "showConfigCounts": true,
+    "showCost": true,
+    "showDuration": true,
+    "showSpeed": true,
+    "showTokenBreakdown": true,
+    "showUsage": true,
+    "usageBarEnabled": true,
+    "usageThreshold": 0,
+    "sevenDayThreshold": 0,
+    "showTools": true,
+    "showSkills": true,
+    "showMcp": true,
+    "showAgents": true,
+    "showTodos": true,
+    "showSessionName": true,
+    "showPromptCache": true
+  },
+  "gitStatus": {
+    "enabled": true,
+    "showDirty": true
+  }
+}
